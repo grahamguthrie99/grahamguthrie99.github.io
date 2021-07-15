@@ -11,4 +11,10 @@ Web Scraping
 Full stack development 
 Genetic Algorithms 
 Microcontrollers 
+Algotrading 
+Firebase 
+Heroku 
+RabbitMQ Messaging 
+
+
 
