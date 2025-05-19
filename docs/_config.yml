@@ -30,6 +30,8 @@ url: https://grahamguthrie99.github.io # the base hostname & protocol for your s
 twitter_username: jekyllrb
 github_username:  jekyll
 
+google_analytics: G-CQFG5WD47V # Replace with your Google Analytics tracking ID
+
 # Build settings
 theme: minima
 plugins:
